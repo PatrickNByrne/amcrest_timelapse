@@ -1,0 +1,5 @@
+# Ignore timelapse files
+*.gif
+
+# Ignore the storage directory
+/timelapse_output
